@@ -1,0 +1,260 @@
+{
+  "schedule": [
+    {
+      "day": "Monday",
+      "lessons": [
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:11",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "lessons": [
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:11",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "lessons": [
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:11",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "lessons": [
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:11",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "lessons": [
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:11",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        },
+        {
+          "teacher": "08:00",
+          "student": "08:00",
+          "break": "08:00"
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "lessons": []
+    },
+    {
+      "day": "Sunday",
+      "lessons": []
+    }
+  ],
+  "sounds": {
+    "teacher": {
+      "endSec": 0,
+      "totalDuration": 0,
+      "file": "",
+      "startSec": 0
+    },
+    "student": {
+      "endSec": 0,
+      "totalDuration": 0,
+      "file": "",
+      "startSec": 0
+    },
+    "break": {
+      "endSec": 0,
+      "totalDuration": 0,
+      "file": "",
+      "startSec": 0
+    }
+  },
+  "bellActive": true,
+  "micVol": 200,
+  "soundpad": []
+}

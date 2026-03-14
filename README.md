@@ -96,7 +96,7 @@
 
 | Component | Requirement |
 |-----------|-------------|
-| **Operating System** | Windows 10/11, Ubuntu 18.04+, macOS 10.14+ |
+| **Operating System** | Windows , Linux, macOS |
 | **Java** | JDK 11 or higher |
 | **RAM** | Minimum 512 MB |
 | **Disk Space** | Minimum 100 MB |

@@ -97,7 +97,7 @@
 | Component | Requirement |
 |-----------|-------------|
 | **Operating System** | Windows , Linux, macOS |
-| **Java** | JRE 8 or higher |
+| **Java** | JDK 11 or higher |
 | **RAM** | Minimum 512 MB |
 | **Disk Space** | Minimum 100 MB |
 | **Sound Card** | Any audio output device |

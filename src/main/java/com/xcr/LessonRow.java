@@ -71,8 +71,8 @@ public class LessonRow extends JPanel {
             }
         });
 
-        // Boyutları büyütülmüş saat kutucukları
-        f.setPreferredSize(new Dimension(100, 40));  // Yeni genişlik 100px, yükseklik 40px
+
+        f.setPreferredSize(new Dimension(100, 40));  
         return f;
     }
 
